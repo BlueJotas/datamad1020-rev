@@ -4,7 +4,7 @@
 # Lab | Regression Analysis
 
 
-## Introduction
+## Introduction 
 
 Regression analysis is one of the most fundamental and powerful algorithms used in data analytics and data science. In this lab, we are going to apply what we have learned about different types of regressions, and use them to understand the trends in our data, and predict future values of our outcome.
 
